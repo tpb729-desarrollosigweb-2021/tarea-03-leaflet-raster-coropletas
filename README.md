@@ -11,9 +11,9 @@ Desarrolle en GitHub un mapa Leaflet con las siguientes características (el por
 
 - (5%)  Al menos dos capas de teselas (*tile*) como capas base.
 - (25%) Al menos una capa WMS como capa base.
-- (25%) Al menos una capa vectorial de coropletas (debe ser un archivo diferente a los usados en clase).
-- (25%) Al menos una capa raster (ImageOverlay) como capa tipo *overlay* (debe ser un archivo diferente a los usados en clase).
-- (5%)  Un control de capas que permita elegir la capa base y activar y desactivar las capas vectoriales.
+- (25%) Al menos una capa vectorial de coropletas (debe ser un archivo diferente a los usados en clase), con su leyenda respectiva.
+- (25%) Al menos una capa raster (ImageOverlay) como capa tipo *overlay* (debe ser un archivo diferente a los usados en clase), con su control de opacidad respectivo.
+- (5%)  Un control de capas que permita elegir la capa base y activar y desactivar las capas vectoriales y raster.
 - (15%) Código HTML, CSS y JavaScript en archivos separados.
 
 Publique la página resultante en GitHub Pages y envíele al profesor la dirección.
